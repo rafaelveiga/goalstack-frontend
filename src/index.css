@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .card {
+    @apply rounded bg-white border-zinc-100 shadow dark:bg-zinc-800 border dark:border-zinc-700
+  }
+}

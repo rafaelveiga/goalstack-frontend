@@ -10,7 +10,7 @@ const GoalStackList = () => {
 
   return (
     <div className="mt-5">
-      <div className="text-2xl font-bold dark:text-white text-zinc-800">
+      <div className="text-2xl mb-5 font-bold dark:text-white text-zinc-800">
         My Goal Stacks
       </div>
 
